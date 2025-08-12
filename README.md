@@ -1,3 +1,7 @@
+[PT-BR] Para a versão em português deste documento, role até o final da página.
+
+---
+
 # Case Study: Menu Management Automation Tool
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
