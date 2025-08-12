@@ -84,6 +84,13 @@ The project is evolving. The next goal is to transform the application into an e
 * **Business Analysis:** Identifying operational bottlenecks and proposing technical solutions with a direct impact on the business.
 * **Solution Architecture:** Planning the evolution of the tool towards a distributed architecture.
 
+---
+
+### Application Screenshots
+
+**Interface Screen**
+![Screenshot of interface](imgs/fotoInterface.jpeg)
+
 &nbsp;
 &nbsp;
 
@@ -178,3 +185,10 @@ O projeto está em evolução. O próximo objetivo é transformar a aplicação 
 * **Banco de Dados:** Geração dinâmica de scripts SQL e conhecimento de T-SQL.
 * **Análise de Negócios:** Identificação de gargalos operacionais e proposição de soluções técnicas com impacto direto no negócio.
 * **Arquitetura de Soluções:** Planejamento da evolução da ferramenta para uma arquitetura distribuída.
+
+---
+
+### Screenshots da Aplicação
+
+**Tela Da Interface**
+![Screenshot da interface](imgs/fotoInterface.jpeg)
