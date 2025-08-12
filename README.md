@@ -1,4 +1,4 @@
-# Case Study: Menu Management Automation Tool (Domino's Brazil)
+# Case Study: Menu Management Automation Tool
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange.svg?style=for-the-badge&logo=python)
@@ -93,7 +93,7 @@ The project is evolving. The next goal is to transform the application into an e
 
 ---
 
-# Case Study: Ferramenta de Automação para Gestão de Cardápios (Domino's Brasil)
+# Case Study: Ferramenta de Automação para Gestão de Cardápios
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange.svg?style=for-the-badge&logo=python)
