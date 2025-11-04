@@ -1,0 +1,2 @@
+-- No SQL code is published here; see the case study for details.
+-- Nenhum código SQL foi publicado; consulte o case study para detalhes.
